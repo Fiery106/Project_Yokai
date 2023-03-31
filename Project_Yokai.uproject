@@ -30,6 +30,10 @@
 			"Name": "RyHelpfulHelpers",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/25653d83f1f84775b09ed750659f9ca3"
+		},
+		{
+			"Name": "Landmass",
+			"Enabled": true
 		}
 	]
 }
